@@ -1,0 +1,19 @@
+[METADATA]
+title = Bullish on XRP
+description = The official token of the Bullish on XRP community, empowering XRPL enthusiasts.
+version = 1.0.0
+xrp-ledger.toml-url = https://bullishonxrp.com/xrp-ledger.toml
+
+[CURRENCIES] 
+[[CURRENCIES]] 
+code = BULLISH 
+issuer = rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9
+display_decimals = 2
+status = active
+name = Bullish on XRP
+description = A community-driven token for XRPL adoption and innovation.
+icon = https://bullishonxrp.com/icon.png
+
+[SOCIALS] 
+twitter = https://x.com/BullishTokenxrp 
+website = https://bullishonxrp.com
